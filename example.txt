@@ -2,5 +2,3 @@ Here is the example!
 
 This is the main branch!
 
-This is the second branch!
-This is the third branch!
